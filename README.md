@@ -23,7 +23,7 @@ Bu proje, kullanıcının girdiği şifreyi belirli güvenlik kriterlerine (uzun
 ---
 
 ## 📂 Proje Yapısı
-
+```
 Sifre-Guvenlik-Analizoru/
 │
 ├── .git/
@@ -40,7 +40,7 @@ Sifre-Guvenlik-Analizoru/
 ├── .gitattributes
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## ⚙️ Kurulum ve Çalıştırma
@@ -55,7 +55,7 @@ Sifre-Guvenlik-Analizoru/
 
 ---
 ## 💻 Kullanım Örneği
-
+```
 Sifre Giriniz: GucluSifre1234?!
 Sifre Analizi Baslatiliyor...
 -------------
@@ -65,6 +65,7 @@ Kucuk Harf: Var
 Rakam: Var
 Ozel karakter: Var
 -------------
+```
 Sifre Gucu: Guclu
 
 Cikti sonucu 'analiz.txt' dosyasina basariyla kaydedildi.
