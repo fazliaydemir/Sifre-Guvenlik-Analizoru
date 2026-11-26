@@ -65,9 +65,10 @@ Kucuk Harf: Var
 Rakam: Var
 Ozel karakter: Var
 -------------
-```
+
 Sifre Gucu: Guclu
 
 Cikti sonucu 'analiz.txt' dosyasina basariyla kaydedildi.
 Tebrikler! Guclu bir sifre. Inanmaya basliyorsun :)
 *(Video otomatik olarak açılır)*
+```
