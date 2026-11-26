@@ -1,0 +1,10 @@
+
+Sifre Analizi Baslatiliyor...
+-------------
+Uzunluk: Uygun
+Buyuk Harf: Var
+Kucuk Harf: Var
+Rakam: Var
+Ozel karakter: Var
+-------------
+Sifre Gucu: Guclu
